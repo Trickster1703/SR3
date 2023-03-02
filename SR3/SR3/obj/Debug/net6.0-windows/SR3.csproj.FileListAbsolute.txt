@@ -1,0 +1,17 @@
+I:\244-ИСП\244ИСП\ОАиП\Подгорбунский\SR3\SR3\bin\Debug\net6.0-windows\SR3.exe
+I:\244-ИСП\244ИСП\ОАиП\Подгорбунский\SR3\SR3\bin\Debug\net6.0-windows\SR3.deps.json
+I:\244-ИСП\244ИСП\ОАиП\Подгорбунский\SR3\SR3\bin\Debug\net6.0-windows\SR3.runtimeconfig.json
+I:\244-ИСП\244ИСП\ОАиП\Подгорбунский\SR3\SR3\bin\Debug\net6.0-windows\SR3.dll
+I:\244-ИСП\244ИСП\ОАиП\Подгорбунский\SR3\SR3\bin\Debug\net6.0-windows\SR3.pdb
+I:\244-ИСП\244ИСП\ОАиП\Подгорбунский\SR3\SR3\obj\Debug\net6.0-windows\SR3.csproj.AssemblyReference.cache
+I:\244-ИСП\244ИСП\ОАиП\Подгорбунский\SR3\SR3\obj\Debug\net6.0-windows\SR3.Form1.resources
+I:\244-ИСП\244ИСП\ОАиП\Подгорбунский\SR3\SR3\obj\Debug\net6.0-windows\SR3.csproj.GenerateResource.cache
+I:\244-ИСП\244ИСП\ОАиП\Подгорбунский\SR3\SR3\obj\Debug\net6.0-windows\SR3.GeneratedMSBuildEditorConfig.editorconfig
+I:\244-ИСП\244ИСП\ОАиП\Подгорбунский\SR3\SR3\obj\Debug\net6.0-windows\SR3.AssemblyInfoInputs.cache
+I:\244-ИСП\244ИСП\ОАиП\Подгорбунский\SR3\SR3\obj\Debug\net6.0-windows\SR3.AssemblyInfo.cs
+I:\244-ИСП\244ИСП\ОАиП\Подгорбунский\SR3\SR3\obj\Debug\net6.0-windows\SR3.csproj.CoreCompileInputs.cache
+I:\244-ИСП\244ИСП\ОАиП\Подгорбунский\SR3\SR3\obj\Debug\net6.0-windows\SR3.dll
+I:\244-ИСП\244ИСП\ОАиП\Подгорбунский\SR3\SR3\obj\Debug\net6.0-windows\ref\SR3.dll
+I:\244-ИСП\244ИСП\ОАиП\Подгорбунский\SR3\SR3\obj\Debug\net6.0-windows\SR3.pdb
+I:\244-ИСП\244ИСП\ОАиП\Подгорбунский\SR3\SR3\obj\Debug\net6.0-windows\SR3.genruntimeconfig.cache
+I:\244-ИСП\244ИСП\ОАиП\Подгорбунский\SR3\SR3\obj\Debug\net6.0-windows\refint\SR3.dll
